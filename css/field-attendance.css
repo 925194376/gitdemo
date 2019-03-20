@@ -22,4 +22,7 @@
 #field-attendance .field-attendance-title img {
   vertical-align: top;
 }
+#field-attendance .field-attendance-map img {
+  width: 100%;
+}
 /*# sourceMappingURL=field-attendance.css.map */
